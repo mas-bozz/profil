@@ -1,0 +1,2 @@
+# profil
+blog pribadi
